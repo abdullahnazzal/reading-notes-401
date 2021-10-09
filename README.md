@@ -16,5 +16,5 @@
 
 | File      | Link |
 | ----------- | ----------- |
-| Read: Class 01  | [Introduction](class-01.md)|
+| Read: Class 01  | [Beginners Guide to Big O](class-01.md)|
 
