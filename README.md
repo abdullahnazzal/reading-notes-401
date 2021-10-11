@@ -18,4 +18,5 @@
 | ----------- | ----------- |
 | Read: Class 01  | [Beginners Guide to Big O](class-01.md)|
 | Read: Class 02  | [Testing and Modules](class-02.md)|
+| Read: Class 03  | [FileIO & Exceptions](class-03.md)|
 
