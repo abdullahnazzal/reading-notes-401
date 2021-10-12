@@ -10,7 +10,7 @@
 
 **[Code 201 - Foundations of Software Development](https://abdullahnazzal.github.io/reading-notes-201/)**
 
-**[Code 301 - Intermediate Software Development](https://abdullahnazzal.github.io/reading-notes-301d29/)**
+**[Code 301 - Intermediate Software Development](https://abdullahnazzal.github.io/reading-notes-301d29/)** 
 
 # reading-notes-401
 
@@ -19,4 +19,6 @@
 | Read: Class 01  | [Beginners Guide to Big O](class-01.md)|
 | Read: Class 02  | [Testing and Modules](class-02.md)|
 | Read: Class 03  | [FileIO & Exceptions](class-03.md)|
+| Read: Class 04  | [Topics](class-04.md)|
+
 

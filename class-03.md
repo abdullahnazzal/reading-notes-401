@@ -3,7 +3,7 @@
 ## **Reading and Writing Files in Python (Guide)**:
 
 One of the most common tasks that you can do with Python is reading and writing files.
-
+ 
 **Files on most modern file systems are composed of three main parts:**
 
 1- Header: metadata about the contents of the file (file name, size, type, and so on)
