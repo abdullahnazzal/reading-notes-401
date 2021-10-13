@@ -20,5 +20,7 @@
 | Read: Class 02  | [Testing and Modules](class-02.md)|
 | Read: Class 03  | [FileIO & Exceptions](class-03.md)|
 | Read: Class 04  | [Topics](class-04.md)|
+| Read: Class 05  | [Implementation: Linked Lists](class-05.md)|
+
 
 
