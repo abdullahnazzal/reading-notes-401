@@ -21,6 +21,7 @@
 | Read: Class 03  | [FileIO & Exceptions](class-03.md)|
 | Read: Class 04  | [Topics](class-04.md)|
 | Read: Class 05  | [Implementation: Linked Lists](class-05.md)|
+| Read: Class 06  | [Game of Greed 1](class-06.md)|
 
 
 
