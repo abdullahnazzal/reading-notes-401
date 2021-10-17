@@ -22,6 +22,7 @@
 | Read: Class 04  | [Topics](class-04.md)|
 | Read: Class 05  | [Implementation: Linked Lists](class-05.md)|
 | Read: Class 06  | [Game of Greed 1](class-06.md)|
+| Read: Class 07  | [Game of Greed 2](class-07.md)|
 
 
 
