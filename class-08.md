@@ -1,50 +1,77 @@
 
-# Game of Greed 2
+# Game of Greed 3
 
-## **Dunder Methods**:
+## **List Comprehensions**:
 
-**What Are Dunder Methods?**
+List comprehension is a powerful and concise method for creating lists in Python that becomes essential the more you work with lists, and lists of lists.
 
-In Python, special methods are a set of predefined methods you can use to enrich your classes. They are easy to recognize because they start and end with double underscores, for example **__ init __** or **__ str __**.
-
-**Enriching a Simple Account Class**
-
-Throughout this article I will enrich a simple Python class with various dunder methods to unlock the following language features:
-
--   Initialization of new  **__ init __**
--   Object representation **__ str __**, **__ repr __**
--   Enable iteration **__ len __**, **__ getitem __**, **__ reversed __**
--   Operator overloading (comparison) **__ eq __**, **__ lt __**
--   Operator overloading (addition) **__ add __**
--   Method invocation **__ call __**
--   Context manager support (with statement) **__ enter __**, **__ exit __**
+**Syntax:**
+my_new_list = [ expression for item in list ]
 
 
+**Create a List with range()**
 
+Let’s start by creating a list of numbers using Python list comprehensions. We’ll take advantage of Python’s **range()** method as a way to create a list of digits.
+
+-   **Example 1: Creating a list with list comprehensions**
+
+
+ ```bash
+# construct a basic list using range() and list comprehensions
+# syntax
+# [ expression for item in list ]
+digits = [x for x in range(10)]
+
+print(digits)
+```
+Output
+```bash
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+**Create a List Using Loops and List Comprehension in Python**
+
+-   **Example 2: Comparing list creation methods in Python**
+
+First, create a list and loop through it. Add an expression, in this example, we’ll raise x to the power of 2.
+
+```bash
+# create a list using a for loop
+squares = []
+
+for x in range(10):
+    # raise x to the power of 2
+    squares.append(x**2)
+
+print(squares)
+```
+Output
+
+```bash
+[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+```
+
+
+**Multiplying Parts of a List**
+
+-   **Example 3: Multiplication with list comprehensions**
+
+What if we wanted to multiply every number in a list by three in Python? We could write a for loop and store the results in a new list, or we could use list comprehensions.
+
+
+
+```bash
+# create a list with list comprehensions
+multiples_of_three = [ x*3 for x in range(10) ]
+
+print(multiples_of_three)
+```
+Output
+
+```bash
+[0, 3, 6, 9, 12, 15, 18, 21, 24, 27]
+```
 --------
 **To know more please 
-[visit this page](https://dbader.org/blog/python-dunder-methods)**
-----------
-----------------
-
-
-
-## **Statistics - Probability**
-
-When studying **statistics** for data science, you will inevitably have to learn about **probability**. It is easy lose yourself in the formulas and theory behind **probability**, but it has essential uses in both working and daily life. We’ve previously discussed some basic concepts in descriptive **statistics**; now we’ll explore how **statistics** relates to **probability**.
-
-**What is probability?:**
-
-At the most basic level, **probability** seeks to answer the question, “What is the chance of an event happening?” An event is some outcome of interest. To calculate the chance of an event happening, we also need to consider all the other events that can occur. The quintessential representation of **probability** is the humble coin toss. In a coin toss the only events that can happen are:
-
-1-  Flipping a heads
-
-2-  Flipping a tails
-
-
-
---------
-**To know more please [visit this page](https://www.dataquest.io/blog/basic-statistics-in-python-probability/)** **[, Watch the video](https://www.youtube.com/watch?v=MdHtK7CWpCQ)**
--------
------------
+[visit this page](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)**
 
