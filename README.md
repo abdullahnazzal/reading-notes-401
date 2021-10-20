@@ -25,5 +25,5 @@
 | Read: Class 07  | [Game of Greed 2](class-07.md)|
 | Read: Class 08  | [List Comprehensions](class-08.md)|
 | Read: Class 09  | [Game of Greed 4](class-09.md)|
-
+| Read: Class 10  | [Stacks and Queues](class-10.md)|
 
