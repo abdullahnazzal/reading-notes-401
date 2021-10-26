@@ -28,5 +28,6 @@
 | Read: Class 10  | [Stacks and Queues](class-10.md)|
 | Read: Class 11  | [Data Analysis](class-11.md)|
 | Read: Class 12  | [10 minutes to pandas](class-12.md)|
+| Read: Class 13  | [Linear Regressions](class-13.md)|
 
 
