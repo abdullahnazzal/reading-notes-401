@@ -30,5 +30,6 @@
 | Read: Class 12  | [10 minutes to pandas](class-12.md)|
 | Read: Class 13  | [Linear Regressions](class-13.md)|
 | Read: Class 14  | [Data Visualization](class-14.md)|
+| Read: Class 15  | [Trees](class-15.md)|
 
 
