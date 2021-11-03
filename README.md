@@ -34,6 +34,7 @@
 | Read: Class 16  | [Trees](class-15.md)|
 | Read: Class 17  | [Trees](class-15.md)|
 | Read: Class 18  | [Cryptography](class-18.md)|
+| Read: Class 19  | [Automation](class-19.md)|
 
 
 
