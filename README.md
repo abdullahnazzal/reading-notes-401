@@ -32,11 +32,6 @@
 | Read: Class 14  | [Data Visualization](class-14.md)|
 | Read: Class 15  | [Trees](class-15.md)|
 | Read: Class 16  | [Data Science Primer](class-16.md)|
-| Read: Class 17  | [Trees](class-15.md)|
+| Read: Class 17  | [Web Scraping](class-17.md)|
 | Read: Class 18  | [Cryptography](class-18.md)|
 | Read: Class 19  | [Automation](class-19.md)|
-
-
-
-
-
