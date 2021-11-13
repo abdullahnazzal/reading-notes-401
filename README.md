@@ -35,3 +35,4 @@
 | Read: Class 17  | [Web Scraping](class-17.md)|
 | Read: Class 18  | [Cryptography](class-18.md)|
 | Read: Class 19  | [Automation](class-19.md)|
+| Read: Class 26  | [Intro to Django](class-26.md)|
