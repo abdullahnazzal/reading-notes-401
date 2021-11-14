@@ -36,3 +36,4 @@
 | Read: Class 18  | [Cryptography](class-18.md)|
 | Read: Class 19  | [Automation](class-19.md)|
 | Read: Class 26  | [Intro to Django](class-26.md)|
+| Read: Class 27  | [Django Models](class-27.md)|
