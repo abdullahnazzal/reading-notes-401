@@ -37,3 +37,4 @@
 | Read: Class 19  | [Automation](class-19.md)|
 | Read: Class 26  | [Intro to Django](class-26.md)|
 | Read: Class 27  | [Django Models](class-27.md)|
+| Read: Class 28  | [Django CRUD and Forms](class-28.md)|
