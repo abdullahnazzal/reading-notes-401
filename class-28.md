@@ -1,4 +1,4 @@
-# **Django Models**
+# **Django CRUD and Forms**
 
 An HTML Form is a group of one or more fields/widgets on a web page, which can be used to collect information from users for submission to a server. 
 
