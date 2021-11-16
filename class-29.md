@@ -1,7 +1,6 @@
 # **Custom User Model**
 
 Django ships with a built-in User model for authentication and if you'd like a basic tutorial on how to implement log in, log out, sign up and so on see the Django Login and Logout tutorial for more.
-![Forms](assist/admin_book_add.png)
 
 ## **AbstractUser vs AbstractBaseUser**
 
