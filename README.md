@@ -38,3 +38,5 @@
 | Read: Class 26  | [Intro to Django](class-26.md)|
 | Read: Class 27  | [Django Models](class-27.md)|
 | Read: Class 28  | [Django CRUD and Forms](class-28.md)|
+| Read: Class 29  | [Django Custom User](class-29.md)|
+
