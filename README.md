@@ -40,4 +40,5 @@
 | Read: Class 28  | [Django CRUD and Forms](class-28.md)|
 | Read: Class 29  | [Django Custom User](class-29.md)|
 | Read: Class 30  | [Hash Tables](class-30.md)|
+| Read: Class 31  | [Django REST Framework & Docker](class-31.md)|
 
