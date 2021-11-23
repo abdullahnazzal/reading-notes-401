@@ -42,4 +42,5 @@
 | Read: Class 30  | [Hash Tables](class-30.md)|
 | Read: Class 31  | [Django REST Framework & Docker](class-31.md)|
 | Read: Class 32  | [Permissions & Postgresql](class-32.md)|
+| Read: Class 33  | [Authentication & Production Server](class-33.md)|
 
