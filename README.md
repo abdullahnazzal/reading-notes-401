@@ -44,4 +44,6 @@
 | Read: Class 32  | [Permissions & Postgresql](class-32.md)|
 | Read: Class 33  | [Authentication & Production Server](class-33.md)|
 | Read: Class 34  | [Authentication & Production Server](class-34.md)|
+| Read: Class 35  | [Graphs](class-35.md)|
+| Read: Class 36  | [DSA Review](class-36.md)|
 
