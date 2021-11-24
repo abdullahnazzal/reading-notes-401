@@ -43,4 +43,5 @@
 | Read: Class 31  | [Django REST Framework & Docker](class-31.md)|
 | Read: Class 32  | [Permissions & Postgresql](class-32.md)|
 | Read: Class 33  | [Authentication & Production Server](class-33.md)|
+| Read: Class 34  | [Authentication & Production Server](class-34.md)|
 
