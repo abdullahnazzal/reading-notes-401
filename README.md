@@ -46,4 +46,5 @@
 | Read: Class 34  | [Authentication & Production Server](class-34.md)|
 | Read: Class 35  | [Graphs](class-35.md)|
 | Read: Class 36  | [DSA Review](class-36.md)|
+| Read: Class 37  | [React 1](class-37.md)|
 
