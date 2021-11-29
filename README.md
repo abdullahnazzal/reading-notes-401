@@ -47,4 +47,5 @@
 | Read: Class 35  | [Graphs](class-35.md)|
 | Read: Class 36  | [DSA Review](class-36.md)|
 | Read: Class 37  | [React 1](class-37.md)|
+| Read: Class 38  | [React 2](class-38.md)|
 
