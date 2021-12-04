@@ -49,4 +49,5 @@
 | Read: Class 37  | [React 1](class-37.md)|
 | Read: Class 38  | [React 2](class-38.md)|
 | Read: Class 39  | [React 3](class-39.md)|
+| Read: Class 41  | [React 4](class-41.md)|
 
