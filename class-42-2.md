@@ -11,9 +11,9 @@ Some of company might force employees to work on unEthics project like what happ
 
 **[The employee backlash over Google’s censored search engine for China, explained](https://www.vox.com/2018/8/17/17704526/google-dragonfly-censored-search-engine-china)**
 
-So , we should always try to think twice about the effects of my code before I write it. I hope that you will too.
+So , I should always try to think twice about the effects of my code before I write it. I hope that you will too.
 
-## **Overview of the Steps**
+## **Ethics in Technology**
 
 If you ride your self-drive safety and surprisingly a school bus appears, one driven by a human, and it veers sharply toward you. There is no time to stop safely, and no time for you to take control of the car.
 
