@@ -51,6 +51,8 @@
 | Read: Class 39  | [React 3](class-39.md)|
 | Read: Class 41  | [React 4](class-41.md)|
 | Read: Class 42-1  | [Pythonisms](class-42-1.md)|
+| Read: Class 42-2  | [Ethics](class-42-2.md)|
+
 
 
 

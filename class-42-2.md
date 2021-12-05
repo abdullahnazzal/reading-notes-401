@@ -1,73 +1,32 @@
-# **NextJs**
+# **Ethics**
 
-## **Dynamic Routes**
+## **Ethics in the workplace**
 
-### **Page Path Depends on External Data**
+We should be responsible for the coding we write, because some time we might work on  projects that involved a drug, provide spying or provide pornographic content.
 
-In the previous lesson, we covered the case where the page content depends on external data. We used `getStaticProps` to fetch required data to render the index page.
 
-In this lesson, we’ll talk about the case where each page path depends on external data. Next.js allows you to statically generate pages with paths that depend on external data. This enables dynamic URLs in Next.js.
+**Here is a sad story that happened with  Bill Sourour [The code I’m still ashamed of](https://www.freecodecamp.org/news/the-code-im-still-ashamed-of-e4c021dff55e/)**
 
-![Next](https://nextjs.org/static/images/learn/dynamic-routes/page-path-external-data.png)
+Some of company might force employees to work on unEthics project like what happened with GOOGLE
 
-### **How to Statically Generate Pages with Dynamic Routes**
+**[The employee backlash over Google’s censored search engine for China, explained](https://www.vox.com/2018/8/17/17704526/google-dragonfly-censored-search-engine-china)**
 
-In our case, we want to create dynamic routes for blog posts:
+So , we should always try to think twice about the effects of my code before I write it. I hope that you will too.
 
-- We want each post to have the path `/posts/<id>`, where `<id>` is the name of the markdown file under the top-level `posts` directory.
+## **Overview of the Steps**
 
-- Since we have `ssg-ssr.md` and `pre-rendering.md`, we’d like the paths to be `/posts/ssg-ssr` and `/posts/pre-rendering`.
+If you ride your self-drive safety and surprisingly a school bus appears, one driven by a human, and it veers sharply toward you. There is no time to stop safely, and no time for you to take control of the car.
 
-### **Overview of the Steps**
+What should happend next **Does the car**:
 
-We can do this by taking the following steps. You don’t have to make these changes yet — we’ll do it all on the next page.
+- A.  Swerve sharply into the trees, possibly killing you but possibly saving the bus and its occupants?
 
-First, we’ll create a page called [id].js under pages/posts. Pages that begin with [ and end with ] are dynamic routes in Next.js.
+- B.  Perform a sharp evasive maneuver around the bus and into the oncoming lane, possibly saving you, but sending the bus and its driver swerving into the trees, killing her and some of the children on board?
 
-In pages/posts/[id].js, we’ll write code that will render a post page — just like other pages we’ve created.
+- C.  Hit the bus, possibly killing you as well as the driver and kids on the bus?
 
-```js
-import Layout from '../../components/layout'
+what should a self-driving car — programmed in advance — do?
 
-export default function Post() {
-  return <Layout>...</Layout>
-}
-```
+Or in any situation — even a less dire one — where a moral snap judgment must be made?
 
-Now, here’s what’s new: We’ll export an async function called `getStaticPaths` from this page. In this function, we need to return a list of possible values for `id`.
-
-```js
-import Layout from '../../components/layout'
-
-export default function Post() {
-  return <Layout>...</Layout>
-}
-
-export async function getStaticPaths() {
-  // Return a list of possible value for id
-}
-
-}
-```
-
-Finally, we need to implement `getStaticProps` again - this time, to fetch necessary data for the blog post with a given `id`. `getStaticProps` is given `params`, which contains `id` (because the file name is `[id].js`).
-
-```js
-import Layout from '../../components/layout'
-
-export default function Post() {
-  return <Layout>...</Layout>
-}
-
-export async function getStaticPaths() {
-  // Return a list of possible value for id
-}
-
-export async function getStaticProps({ params }) {
-  // Fetch necessary data for the blog post using params.id
-}
-```
-***
-
-**To know more please [visit this page](https://nextjs.org/learn/basics/dynamic-routes/page-path-external-data)**
-
+**Who decides who lives, dies? with [Morality, ethics of a self-driving car](https://www.freep.com/story/money/cars/2017/11/21/self-driving-cars-ethics/804805001/)**
